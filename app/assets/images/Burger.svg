@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="33" viewBox="0 0 55 33">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: snow;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Burger" transform="translate(-1460 -38)">
+    <g id="Burger_inner" data-name="Burger inner">
+      <line id="Linie_1" data-name="Linie 1" class="cls-1" x2="38.273" transform="translate(1468.201 46.201)"/>
+      <line id="Linie_1-2" data-name="Linie 1" class="cls-1" x2="38.273" transform="translate(1468.201 54.099)"/>
+      <line id="Linie_1-3" data-name="Linie 1" class="cls-1" x2="38.273" transform="translate(1468.201 61.996)"/>
+    </g>
+    <g id="Burger_border" data-name="Burger border" class="cls-2" transform="translate(1460 38)">
+      <rect class="cls-3" width="55" height="33" rx="8"/>
+      <rect class="cls-4" x="1.5" y="1.5" width="52" height="30" rx="6.5"/>
+    </g>
+  </g>
+</svg>
