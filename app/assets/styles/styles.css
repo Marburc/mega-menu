@@ -31,9 +31,10 @@ body {
         left: calc(50% - 217px);
         span:nth-child(1) {
             font-weight: 500;
+            margin-left: 61px;
         }
         span:nth-child(2) {
-            color: $secondary;
+            color: rgb(252, 252, 252);
             display: block;
             padding-left: 215px;
             margin-top: -44px;
